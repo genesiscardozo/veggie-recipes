@@ -14,10 +14,10 @@ A simple web app designed to help me choose vegetarian recipes easily, it will g
 
 ### **TECHNOLOGIES/TOOLS USED:**
 
-### ** - DESIGN:**
+**DESIGN:**
 Figma: for prototyping and designing the interface.
 
-### ** - DEVELOPMENT:**
+**DEVELOPMENT:**
 HTML, CSS, and Bootstrap for building the responsive web app. 
 
 
